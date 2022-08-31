@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1658232456 source:c:\users\jakub\documents\programowanie\c++\051_data_structures_queue\main.cpp
+	<iostream>
+	<windows.h>
+
